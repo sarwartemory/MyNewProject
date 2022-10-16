@@ -1,1 +1,3 @@
-Hello world!!!!!!!!!!!!!!!!!!!!!!!!!
+Hello world!!!!!!!!!!!!git config --global user.email "Sarwartemory35@gamil.com"
+git config --global user.name "sarwartemory"
+git config -l!!!!!!!!!!!!!
